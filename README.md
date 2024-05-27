@@ -15,3 +15,6 @@ The "Form a Story" project marked a pivotal step in my HTML learning journey. Bu
 In the Fashion Blog project, I seamlessly merged aesthetics with functionality, delving into the intersection of design and coding. This endeavor allowed me to showcase my evolving HTML skills in curating visually appealing and responsive web layouts. By incorporating multimedia elements and optimizing the project for various devices, I further solidified my grasp of HTML's role in creating modern and stylish web interfaces.
 
 I am excited to build upon these experiences as I advance in my coding education, continuously refining my skills and contributing to the dynamic world of web development.
+
+# Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
